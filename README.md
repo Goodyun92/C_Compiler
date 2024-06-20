@@ -7,3 +7,9 @@
 > unix 체제의 yacc, lex 를 사용한다.
 > 
 > Goto, 변수의 초기화, switch, struct 는 제외한다.
+
+```
+실행예시
+$ ./compiler test.c
+$ ./interprtr a.asm
+```
